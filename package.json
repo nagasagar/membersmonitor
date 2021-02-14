@@ -10,7 +10,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "async": "^3.2.0",
+    "async-get-file": "^1.0.4",
+    "csv2json": "^2.0.2",
+    "csvtojson": "^2.0.10",
     "discord.js": "^12.5.1",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "google-spreadsheet": "^3.1.15",
+    "json2csv": "^5.0.6"
   }
 }
